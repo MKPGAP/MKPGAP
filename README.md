@@ -20,7 +20,7 @@
 - ☁️ Currently working through the cloud/DevOps certification path: **AZ-900 → AZ-104 → AZ-204 → AZ-400**, plus **AWS Cloud Practitioner**
 - 🛠️ Side projects span full-stack web apps, SaaS, and AI video/cinematic design — usually with a Sri Lankan cultural thread running through them
 - 🌱 Currently exploring: Kubernetes, Terraform, and AI video tools (Runway Gen-3/4) for a Sri Lankan folklore short
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **anushkaperera120@gmail.com**
 
 ---
 

@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MKPGAP&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/anushka-perera-55aa75241/)"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anushka-perera-55aa75241/"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 
 ---

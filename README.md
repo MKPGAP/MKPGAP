@@ -60,10 +60,6 @@
   <img src="https://github-readme-stats-pi-two-k9yacs8l3h.vercel.app/api/top-langs/?username=MKPGAP&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKPGAP&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
 ---
 
 ### 🐍 Contribution Snake

@@ -55,6 +55,14 @@
 
 ### 📊 GitHub Stats
 
+<!--
+  NOTE: The shared public github-readme-stats.vercel.app instance is heavily
+  rate-limited (see anuraghazra/github-readme-stats#2130) and fails intermittently
+  regardless of cache_seconds. Once you deploy your own instance (fork the repo,
+  deploy to your own Vercel account with a PAT env var), replace
+  "github-readme-stats.vercel.app" below with your own deployment URL,
+  e.g. "your-project-name.vercel.app"
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MKPGAP&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKPGAP&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" height="165"/>
